@@ -39,7 +39,6 @@
 [Objective-C编程之道](http://book.douban.com/subject/6920082/) | 解析 iOS 的开山之作, 详细介绍了 MVC 在 Cocoa Touch 上的运作过程, 该书适用于 iOS 中级开发者阅读
 [Objective-C高级编程](http://www.amazon.cn/dp/B00DE60G3S/ref=cm_sw_r_qz_2_dp_hdPPub11MFE6G) | 本书主要介绍 iOS 与 OS X 多线程和内存管理, 深入破析了苹果官方公布的源代码,  告诉你一些苹果公司官方文档中不会出现的知识, 适合中级以上 iOS 开发人员阅读
 [Effective Objective C 2.0](http://www.amazon.cn/dp/B00IDSGY06/ref=cm_sw_r_qz_2_dp_A2OPub0CH96YH) | 书里写了编写高质量iOS与OS X代码的52个有效方法, 适合 iOS 开发的进阶使用
-[Tutorials](http://www.raywenderlich.com/tutorials) | 大把的 Object-C, Swift, iOS 教程, 且全部免费, raywenderlich 真是业界良心, 赞!
 [Swift Fundamentals](http://www.amazon.com/dp/0990402053/ref=cm_sw_r_tw_dp_louPub127Q1YP) | 估计将来这本书会成为 Swift 的经典入门书籍, 它的 Stars 数说明了一切
 [The Swift Programming Language 中文版](http://numbbbbb.gitbooks.io/-the-swift-programming-language-/content/) | 90 后开发者梁杰组织翻译的 Swift 编程语言中文版
 
@@ -57,6 +56,22 @@
 [iOS技术周报](http://weekly.ios-wiki.com/history) | 吴发伟, 天猫资深软件开发工程师, iOS 技术周报每周一更, 推送一些 iOS 技巧, 代码库, 设计等资讯.
 [更多](https://github.com/tangqiaoboy/iOSBlogCN) | 唐巧收集的中文 iOS/Mac 开发博客列表, 更新频繁, 值得收藏
 
+## [文章](#articles)
+
+标题  | 内容简介
+---- | -----
+[Learn Objective C: The Path to iPhone Development](https://www.udemy.com/blog/learn-objective-c/) | Udemy 写的文章, 说明了一些学习 Object C 的前提条件, Object C 的发展历史, 学习方法以及学习资源
+[I Want to Write iOS Apps. Where Do I Start?](http://lifehacker.com/i-want-to-write-ios-apps-where-do-i-start-1644802175) | 主要对 iOS 的开发环境进行了介绍, 并且涉及到了 Swift 的学习, iOS 上架的注意事项, iOS 的设计, 测试, 代码托管等, 讲解较为广泛, 同时也给出不少学习资源
+[How to become a professional iOS developer](http://roadfiresoftware.com/2014/04/how-to-become-a-professional-ios-developer/) | 文章写的很有条理, 文中多次强调了版本控制系统的重要性, 主要内容是对学习 iOS 开发到就职, 给出了自己的建议
+[Learning iOS Programming](http://codewithchris.com/learning-ios-programming/) | 作者总结了一些自己学习 iOS 的血的教训, 最后给出了一些不错学习建议
+[Become an iOS Developer](https://www.udacity.com/career-paths/ios-developer) |
+[iOS开发如何提高](http://www.devtang.com/blog/2014/07/27/ios-levelup-tips/) | 唐巧写的一篇文章, 主要是对 iOS 技术的提高做的一个总结, 文中不少资源, 工具, 学习方法
+[自学 iOS 开发的一些经验](http://limboy.me/ios/2014/12/31/learning-ios.html) | 文章从入门到进阶到高级, 分为三个阶段, 有条理的讲出了 iOS 的整个学习过程中开发者可能遇到的问题, 并给出了解决办法, 奉献了不少好工具, 资源还有珍贵的学习经验
+[如何从 0 开始学 iOS 开发](http://readful.com/post/101914515826/0-ios) | 作者给出了学习 iOS 的流程, 并给出一些不错的学习资源
+[如果我可以重新学习iOS开发](http://www.cocoachina.com/programmer/20141128/10353.html) | 作者在文中给出了学习的一些建议, 也谈到了自己的学习方法
+[iOS开发学习路径的一些建议](http://www.cocoachina.com/ios/20141106/10147.html) | 文中谈到了英语的重要性, 以及写博客, 看源代码的好处
+[iOS 开发入门](http://www.jianshu.com/p/KSuDqb) | 作者分享了自己学习 iOS 的经验和资源
+
 ## [相关网站](#websites)
 
 网站  |  简介
@@ -68,12 +83,13 @@
 [Appcoda](http://www.appcoda.com/) | 经常发布一些 iOS 编程教程, 更新比较频繁, 想了解更多可以查看该网站的 About 界面
 [NSHipster](http://nshipster.com/) | NSHipster is a journal of the overlooked bits in Objective-C, Swift, and Cocoa. Updated weekly.
 [Think and build](http://www.thinkandbuild.it/) | Some tutorials about Core Graphic and Core Animation.
+[Tutorials](http://www.raywenderlich.com/tutorials) | 大把的 Object-C, Swift, iOS 教程, 且全部免费, raywenderlich 真是业界良心, 赞!
 
 ## [GitHub Top 50 简介](#open-sources)
 
 项目名称 | 项目信息
 ------- | -------
-1. [AFNetworking](https://github.com/AFNetworking/AFNetworking) | 作者是 NSHipster 的博主, 毕业于卡内基·梅隆大学, 开源许多有用的项目, 这个便是其中之一, AFNetworking 采用 NSURLConnection + NSOperation, 主要方便与服务端 API 进行数据交换, 操作简单, 功能强大, 现在许多人都用它取代 ASIHTTPRequest
+1. [AFNetworking](https://github.com/AFNetworking/AFNetworking) | 作者是 NSHipster 的博主, iOS 开发界的大神级人物, 毕业于卡内基·梅隆大学, 开源了许多牛逼的项目, 这个便是其中之一, AFNetworking 采用 NSURLConnection + NSOperation, 主要方便与服务端 API 进行数据交换, 操作简单, 功能强大, 现在许多人都用它取代 ASIHTTPRequest
 2. [GPUImage](https://github.com/BradLarson/GPUImage) | 一款强大的图片滤镜工具, 支持自定义滤镜, 可用来实时处理图片和视频流, 作者是 SonoPlot 公司的 CTO, 在很小的时候便开始接触编程, 他在 [SO](http://stackoverflow.com/users/19679/brad-larson) 上面的回答也有很多值得阅读, GPUImage 这个项目从 2012 年开始, 使用 OpenGL 图形程序接口编写, 性能非常好, 现在很多 iOS 程序员都用它来实现 iOS 的模糊效果
 3. [three20](https://github.com/facebookarchive/three20) | 由 Facebook iOS 客户端衍生出的一款 iPhone 框架, 内置许多丰富的功能, 有丰富的界面, 对底层的操作便捷, 为开发者省下了很多时间, 但现在已经停止了更新, 一个 [PR](https://github.com/facebookarchive/three20/pull/832?utm_source=iOS+Dev+Weekly&utm_campaign=46a7deb647-iOS_Dev_Weekly_Issue_100&utm_medium=email&utm_term=0_7bda94b7ca-46a7deb647-299428269) 把代码删得干干净净, 不要好奇去点开 Files changed, 我点开后该页面直接卡死, three20 当中的一位作者创建了 [Nimbus](https://github.com/jverkoey/nimbus), 算是 three20 的一个替代品
 4. [RestKit](https://github.com/RestKit/RestKit) | 主要用于 iOS 上网络通信, 允许与 RESTful Web 服务交互, 常用于处理 API, 解析 JSON, 映射响应对象等操作, 简单易用, 方便你把所有精力都放在对数据的操作上
@@ -124,23 +140,6 @@
 49. [Appirater](https://github.com/arashpayan/appirater) | 一款用于提醒用户给你的 APP 打分的工具
 50. [BlocksKit](https://github.com/zwaldowski/BlocksKit) | 一个开源的与 Cocoa 紧密集合的基础性框架
 
-## [文章](#articles)
-
-- [Learn Objective C: The Path to iPhone Development](https://www.udemy.com/blog/learn-objective-c/)
-- [I Want to Write iOS Apps. Where Do I Start?](http://lifehacker.com/i-want-to-write-ios-apps-where-do-i-start-1644802175)
-- [Learn Objective C](https://www.udemy.com/topic/learn-objective-c/)
-- [How to become a professional iOS developer](http://roadfiresoftware.com/2014/04/how-to-become-a-professional-ios-developer/)
-- [Learning iOS Programming](http://codewithchris.com/learning-ios-programming/)
-- [Become an iOS Developer](https://www.udacity.com/career-paths/ios-developer)
-- [如何从 0 开始学 iOS 开发](http://readful.com/post/101914515826/0-ios)
-- [iOS开发如何提高](http://www.devtang.com/blog/2014/07/27/ios-levelup-tips/)
-- [如果我可以重新学习iOS开发](http://www.cocoachina.com/programmer/20141128/10353.html)
-- [从今天开始学习iOS开发](http://www.cocoachina.com/ios/20141201/10573.html)
-- [iOS开发学习路径的一些建议](http://www.cocoachina.com/ios/20141106/10147.html)
-- [如何开始苹果开发](http://segmentfault.com/blog/snowell/1190000000363200)
-- [自学 iOS 开发的一些经验](http://limboy.me/ios/2014/12/31/learning-ios.html)
-- [iOS 开发入门](http://www.jianshu.com/p/KSuDqb)
-
 ## [社区](#forum)
 
 ### [中文社区](#the-chinese-community)
@@ -167,11 +166,12 @@
 
 ## [指南](#guides)
 
-- [Get started with your iOS developer pragram](https://developer.apple.com/programs/ios/gettingstarted/)
-- [App Programming Guide for iOS](https://developer.apple.com/library/ios/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/iPhoneAppProgrammingGuide.pdf) 
 - [Start Developing iOS Apps Today](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOS/)
-- [teamtreehouse](http://blog.teamtreehouse.com/the-beginners-guide-to-objective-c-language-and-variables)
+- [App Programming Guide for iOS](https://developer.apple.com/library/ios/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/iPhoneAppProgrammingGuide.pdf) 
+- [Get started with your iOS developer pragram](https://developer.apple.com/programs/ios/gettingstarted/)
+- [Teamtreehouse](http://blog.teamtreehouse.com/the-beginners-guide-to-objective-c-language-and-variables)
 - [A map for iOS development](http://www.appdeveloperatlas.com/)
+- [App Store Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)
 
 ## [Awesome 系列](#awesome-series)
 
