@@ -1,6 +1,6 @@
 # iOS 学习资料整理
 
-## [视频教程(英文)](#video-turtorials-english)
+## 视频教程(英文)
 
 视频  |  简介
 ---- | ----
@@ -12,7 +12,7 @@
 [Code School](https://www.codeschool.com/paths/ios) | CodeSchool 上面的 iOS 不多, 不过质量都不错, 一些课程也挺有趣的
 [Udemy](https://www.udemy.com/topic/learn-objective-c/) | Udemy 帮助初学者规划了视频学习路线, 从新手到高级分的比较详细
 
-## [视频教程(中文)](#video-turtorials-chinese)
+## 视频教程(中文)
 
 视频  |  简介
 ---- | ----
@@ -22,7 +22,7 @@
 [使用Swift开发iOS8 App实战](http://www.imooc.com/learn/173) | 慕课网的视频, 主要讲 Swift 的一些基本使用, 并在讲解的过程中做了几个小 APP, 最后还讲了 Sketch 制作分享按钮
 [征战Objective-C](http://www.imooc.com/learn/218) | 视频还未完结, 讲了一些 C 和 Object-C 的基本语法, 适合零基础的人观看
 
-## [书籍](#books)
+## 书籍
 
 书籍名称 | 推荐理由
 ------- | -------
@@ -42,7 +42,7 @@
 [Swift Fundamentals](http://www.amazon.com/dp/0990402053/ref=cm_sw_r_tw_dp_louPub127Q1YP) | 估计将来这本书会成为 Swift 的经典入门书籍, 它的 Stars 数说明了一切
 [The Swift Programming Language 中文版](http://numbbbbb.gitbooks.io/-the-swift-programming-language-/content/) | 90 后开发者梁杰组织翻译的 Swift 编程语言中文版
 
-## [博客](#blog)
+## 博客
 
 博客地址 | 博主信息
 ------- | -------
@@ -56,7 +56,7 @@
 [iOS技术周报](http://weekly.ios-wiki.com/history) | 吴发伟, 天猫资深软件开发工程师, iOS 技术周报每周一更, 推送一些 iOS 技巧, 代码库, 设计等资讯.
 [更多](https://github.com/tangqiaoboy/iOSBlogCN) | 唐巧收集的中文 iOS/Mac 开发博客列表, 更新频繁, 值得收藏
 
-## [文章](#articles)
+## 文章
 
 标题  | 内容简介
 ---- | -----
@@ -72,7 +72,7 @@
 [iOS开发学习路径的一些建议](http://www.cocoachina.com/ios/20141106/10147.html) | 文中谈到了英语的重要性, 以及写博客, 看源代码的好处
 [iOS 开发入门](http://www.jianshu.com/p/KSuDqb) | 作者分享了自己学习 iOS 的经验和资源
 
-## [相关网站](#websites)
+## 相关网站
 
 网站  |  简介
 ---- | ----
@@ -85,7 +85,7 @@
 [Think and build](http://www.thinkandbuild.it/) | Some tutorials about Core Graphic and Core Animation.
 [Tutorials](http://www.raywenderlich.com/tutorials) | 大把的 Object-C, Swift, iOS 教程, 且全部免费, raywenderlich 真是业界良心, 赞!
 
-## [GitHub Top 50 简介](#open-sources)
+## GitHub Top 50 简介
 
 项目名称 | 项目信息
 ------- | -------
@@ -140,31 +140,31 @@
 49. [Appirater](https://github.com/arashpayan/appirater) | 一款用于提醒用户给你的 APP 打分的工具
 50. [BlocksKit](https://github.com/zwaldowski/BlocksKit) | 一个开源的与 Cocoa 紧密集合的基础性框架
 
-## [社区](#forum)
+## 社区
 
-### [中文社区](#the-chinese-community)
+### 中文社区
 
   - [code4app](http://code4app.com/)
   - [CocoaChina](http://www.cocoachina.com/)
   - [objc中国](http://objccn.io/)
 
-### [国外社区](#the-foreign-community)
+### 国外社区
 
   - [objc](http://www.objc.io/)
   - [iPhone Dev SDK](http://iphonedevsdk.com/)
   - [Reddit for iOS](http://www.reddit.com/r/ios/)
 
-## [邮件订阅](#email-subscribe)
+## 邮件订阅
 
 - [iOS Dev Weekly](http://iosdevweekly.com) (每周一期，内容多为这一星期里值得关注的 GitHub 项目、文章、工具等)
 - [iOS Design Weekly](http://iosdesign.co) (Tips, news and inspiration delivered each week)
 
 
-## [文档](#documents)
+## 文档
 
 - [iOS Developer Library](https://developer.apple.com/library/ios/navigation/) (iOS 开发必看, 有此文档足矣, 内容非常之详细)
 
-## [指南](#guides)
+## 指南
 
 - [Start Developing iOS Apps Today](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOS/)
 - [App Programming Guide for iOS](https://developer.apple.com/library/ios/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/iPhoneAppProgrammingGuide.pdf) 
@@ -173,13 +173,13 @@
 - [A map for iOS development](http://www.appdeveloperatlas.com/)
 - [App Store Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)
 
-## [Awesome 系列](#awesome-series)
+## Awesome 系列
 
 - [Awesome iOS](https://github.com/matteocrippa/awesome-swift)
 - [Awesome-Swift(1)](https://github.com/matteocrippa/awesome-swift)
 - [Awesome-Swift(2)](https://github.com/Wolg/awesome-swift)
 
-## [知乎](#zhihu)
+## 知乎
 
 - [如何才能系统的学习 iOS 开发，理解一些规则和深层次的机制原理？](http://www.zhihu.com/question/20016551)
 - [没有 C 和 Objective-C 基础如何快速学习 iOS 开发？](http://www.zhihu.com/question/19627420)
@@ -189,7 +189,7 @@
 - [GitHub 上都有哪些值得关注学习的 iOS 开源项目？](http://www.zhihu.com/question/22914651)
 - [笨猫快乐学编程](http://zhuanlan.zhihu.com/kidscoding)
 
-## [Quora](#quora)
+## Quora
 
 - [What are the best resources to learn iOS development?](http://www.quora.com/What-are-the-best-resources-to-learn-iOS-development)
 - [What are the best new resources for learning iOS development in 2014?](https://www.quora.com/What-are-the-best-new-resources-for-learning-iOS-development-in-2014)
