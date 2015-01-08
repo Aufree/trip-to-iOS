@@ -1,5 +1,9 @@
 # iOS 学习资料整理
 
+这份学习资料是为 iOS 初学者所准备的, 旨在帮助 iOS 初学者们快速找到适合自己的学习资料, 节省他们搜索资料的时间, 使他们更好的规划好自己的 iOS 学习路线, 更快的入门, 更准确的定位的目前所处的位置.
+
+该文档会持续更新, 同时也欢迎更多具有丰富经验的 iOS 开发者将自己的常用的一些工具, 学习资料, 学习心得等分享上来, 我将定期筛选合并, 文档尚有一些不完善之处, 也请不吝指出, 感谢您对 iOS 所做的贡献, 让我们一起把国内的 iOS 做得更好,  谢谢.
+
 ## 视频教程(英文)
 
 视频  |  简介
@@ -116,6 +120,8 @@
 
 ## GitHub Top 50 简介
 
+主要对当前 GitHub 排名前 50 的项目做一个简单的简介, 方便初学者快速了解到当前 Object-C 在 GitHub 的情况.
+
 项目名称 | 项目信息
 ------- | -------
 1. [AFNetworking](https://github.com/AFNetworking/AFNetworking) | 作者是 NSHipster 的博主, iOS 开发界的大神级人物, 毕业于卡内基·梅隆大学, 开源了许多牛逼的项目, 这个便是其中之一, AFNetworking 采用 NSURLConnection + NSOperation, 主要方便与服务端 API 进行数据交换, 操作简单, 功能强大, 现在许多人都用它取代 ASIHTTPRequest
@@ -202,13 +208,16 @@
 - [iOS 开发入门需要学习哪些知识，从一无所知到精通需要多长时间？](http://www.zhihu.com/question/20130048)
 - [12 岁如何入门 iOS 编程？](http://www.zhihu.com/question/20919784)
 - [GitHub 上都有哪些值得关注学习的 iOS 开源项目？](http://www.zhihu.com/question/22914651)
-- [笨猫快乐学编程](http://zhuanlan.zhihu.com/kidscoding)
 
 ## Quora 上的讨论
 
 - [What are the best resources to learn iOS development?](http://www.quora.com/What-are-the-best-resources-to-learn-iOS-development)
 - [What are the best new resources for learning iOS development in 2014?](https://www.quora.com/What-are-the-best-new-resources-for-learning-iOS-development-in-2014)
 
+## 贡献者
+
+点击[该链接](https://github.com/Aufree/trip-to-iOS/graphs/contributors)查看该项目的所有贡献者
+
 ## License
 
-以上内容采用 [CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh) 进行许可, 转载请注明出处
+以上内容采用 [CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh) 进行许可, 转载请注明出处, 版权归本人及所有贡献者所有
