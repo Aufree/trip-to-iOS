@@ -195,6 +195,7 @@
 - [Teamtreehouse](http://blog.teamtreehouse.com/the-beginners-guide-to-objective-c-language-and-variables)
 - [A map for iOS development](http://www.appdeveloperatlas.com)
 - [App Store Review Guidelines](https://developer.apple.com/app-store/review/guidelines)
+- [Swift 语言指南](http://dev.swiftguide.cn)
 
 ## Awesome 系列
 
