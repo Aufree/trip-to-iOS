@@ -75,6 +75,7 @@
 [如果我可以重新学习iOS开发](http://www.cocoachina.com/programmer/20141128/10353.html) | 作者在文中给出了学习的一些建议, 也谈到了自己的学习方法
 [iOS开发学习路径的一些建议](http://www.cocoachina.com/ios/20141106/10147.html) | 文中谈到了英语的重要性, 以及写博客, 看源代码的好处
 [iOS 开发入门](http://www.jianshu.com/p/KSuDqb) | 作者分享了自己学习 iOS 的经验和资源
+[Mac 和 iOS 开发资源汇总](http://beyondvincent.com/blog/2013/07/18/106) | 破船之家发布的资源汇总
 
 ## 相关网站
 
