@@ -82,8 +82,37 @@
 [Awesome Swift](https://swift.zeef.com/robin.eggenkamp) | 该网站收集了很多关于 Swift 的学习资料, 新闻
 [Appcoda](http://www.appcoda.com) | 经常发布一些 iOS 编程教程, 更新比较频繁, 想了解更多可以查看该网站的 About 界面
 [NSHipster](http://nshipster.com) | NSHipster is a journal of the overlooked bits in Objective-C, Swift, and Cocoa. Updated weekly.
-[Think and build](http://www.thinkandbuild.it) | Some tutorials about Core Graphic and Core Animation.
+[Think and Build](http://www.thinkandbuild.it) | Some tutorials about Core Graphic and Core Animation.
 [Tutorials](http://www.raywenderlich.com/tutorials) | 大把的 Object-C, Swift, iOS 教程, 且全部免费, raywenderlich 真是业界良心, 赞!
+
+## 社区
+
+社区  |  简介
+---- | ----
+[CocoaChina](http://www.cocoachina.com) | 全球最大苹果开发者中文社区
+[code4app](http://code4app.com) | 经常更新一些很不错的 iOS 代码片段和一些 iOS 资源
+[objc](http://www.objc.io) | 定期发布一些有关 Object-C 的高质量的文章
+[objc中国](http://objccn.io) | 喵神组织的对 objc.io 的翻译网站, 旨在推进国内技术圈整体水平, 翻译质量非常高
+[DevDiv](http://www.devdiv.com) | 发布一些 iOS 的最新咨询及教程
+[Cocos2d-x](http://discuss.cocos2d-x.org) | Cocos2d-x 论坛
+[iPhone Dev SDK](http://iphonedevsdk.com) | 国外较有名的 iOS 开发者论坛
+[Learn Cocoa and iOS Development Forum](http://forum.learncocoa.org) | [Learn Cocoa on the Mac](http://www.amazon.com/Learn-Cocoa-Mac-Jack-Nutting/dp/1430245425) 和 [Beginning iOS 7 Development](http://www.amazon.com/Beginning-iOS-Development-Exploring-SDK/dp/143026022X) 这两本书籍的官方论坛, 用户活跃度较高
+[Apple Developer Forums](http://devforums.apple.com) | 苹果官方的开发者论坛
+
+## 工具/插件
+
+工具/插件  |  简介
+---- | ----
+[CocoaPods](http://cocoapods.org) | 开发 OS X 和 iOS 应用程序的一个第三方库的依赖管理工具, 本身是 Ruby 的一个 gem, 极大的简化了 Objective-C 的开发流程
+[Alcatraz](http://alcatraz.io) | Alcatraz 是一款管理 Xcode 插件、模版以及颜色配置的工具
+[XcodeColors](https://github.com/robbiehanson/XcodeColors) | 使 Xcode 调试控制台色彩更丰富
+[xctool](https://github.com/facebook/xctool) | Facebook 开源的一个 iOS 编译和测试的工具
+[XToDo](https://github.com/trawor/XToDo) | 一款注释辅助插件，主要用于收集并列出项目中的`TODO`, `FIXME`, `???`, `!!!`
+[KSImageNamed-Xcode](https://github.com/ksuther/KSImageNamed-Xcode) | 自动补全图片命名的一款插件
+[VVDocumenter](https://github.com/onevcat/VVDocumenter-Xcode) | 一个自动生成代码注释的工具
+[ImageOptim](https://imageoptim.com) | 用于压缩图片一款工具
+[iOS 必备的 75 个工具](http://benscheirman.com/2013/08/the-ios-developers-toolbelt) | 其中包含了非常多好用的工具, 涉及到设计, 分析, 部署等, 总结的十分详细, 有[中文翻译](http://blog.jobbole.com/46799)
+[更多](http://blog.devtang.com/blog/2014/06/29/ios-dev-tools) | 唐巧总结的一些图形应用工具, 命令行工具, Xcode 插件, 并介绍了一点基础的用法
 
 ## GitHub Top 50 简介
 
@@ -110,7 +139,7 @@
 19. [Shimmer](https://github.com/facebook/Shimmer) | Facebook 推出的一款具有闪烁效果的第三方控件, 供它旗下一款名为 Paper 的应用使用, 安装使用整个过程都十分简单
 20. [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) | 这是 Mac 和 iOS 的一款强大的日志框架, 配置简单, 多线程, 提供更高级的 log 功能, 可用于代替默认的 NSLog 语句
 21. [ViewDeck](https://github.com/Inferis/ViewDeck) | 一款开源的 iOS 活动面板组件, 还原 Path 2.0 的侧滑效果, 作者因为时间关系在两年前停止对其更新
-22. [Alcatraz](https://github.com/supermarin/Alcatraz) | Alcatraz 是一款管理Xcode插件、模版以及颜色配置的工具, 可以集成到 Xcode 的图形界面中, 安装删除都是几条命令的事, 很方便, 支持自己开发插件并上传
+22. [Alcatraz](https://github.com/supermarin/Alcatraz) | Alcatraz 是一款管理 Xcode 插件、模版以及颜色配置的工具, 可以集成到 Xcode 的图形界面中, 安装删除都是几条命令的事, 很方便, 支持自己开发插件并上传
 23. [OpenEmu](https://github.com/OpenEmu/OpenEmu) | 超强的游戏模拟器, 做游戏开发必备, 官网做得也很不错
 24. [AsyncDisplayKit](https://github.com/facebook/AsyncDisplayKit) | Facebook 开源的一款 iOS UI 框架, Paper 用的就是该框架, 另外框架还用到了 Facebook 早期开源 Pop 动画引擎
 25. [Xctool](https://github.com/facebook/xctool) | 是 Facebook 开源的一个命令行工具，用来替代苹果的 XcodeBuild 工具, 极大的方便了 iOS 的构建和测试, 输出错误信息也比较友好, 受到许多 iOS 开发者的称赞, 经常与其搭配使用的还有 OCUnit, [Travis CI](https://travis-ci.org), [OCLint](http://oclint.org) 等测试工具
@@ -139,20 +168,6 @@
 48. [VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode) | 作者是王巍国内著名的 iOS 开发者, 人称喵神, 目前在日本 LINE 公司工作, 该项目帮助开发者轻松的生成注释文档, 节省了不少工作量, 赞
 49. [Appirater](https://github.com/arashpayan/appirater) | 一款用于提醒用户给你的 APP 打分的工具
 50. [BlocksKit](https://github.com/zwaldowski/BlocksKit) | 一个开源的与 Cocoa 紧密集合的基础性框架
-
-## 社区
-
-社区  |  简介
----- | ----
-[CocoaChina](http://www.cocoachina.com) | 全球最大苹果开发者中文社区
-[code4app](http://code4app.com) | 经常更新一些很不错的 iOS 代码片段和一些 iOS 资源
-[objc](http://www.objc.io) | 定期发布一些有关 Object-C 的高质量的文章
-[objc中国](http://objccn.io) | 喵神组织的对 objc.io 的翻译网站, 旨在推进国内技术圈整体水平, 翻译质量非常高
-[DevDiv](http://www.devdiv.com) | 发布一些 iOS 的最新咨询及教程
-[Cocos2d-x](http://discuss.cocos2d-x.org) | Cocos2d-x 论坛
-[iPhone Dev SDK](http://iphonedevsdk.com) | 国外较有名的 iOS 开发者论坛
-[Learn Cocoa and iOS Development Forum](http://forum.learncocoa.org) | [Learn Cocoa on the Mac](http://www.amazon.com/Learn-Cocoa-Mac-Jack-Nutting/dp/1430245425) 和 [Beginning iOS 7 Development](http://www.amazon.com/Beginning-iOS-Development-Exploring-SDK/dp/143026022X) 这两本书籍的官方论坛, 用户活跃度较高
-[Apple Developer Forums](http://devforums.apple.com) | 苹果官方的开发者论坛
 
 ## 邮件订阅
 
