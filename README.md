@@ -21,7 +21,6 @@
 视频  |  简介
 ---- | ----
 [iOS 7应用开发](http://v.163.com/special/opencourse/ios7.html) | 斯坦福白胡子老爷爷的系列视频, 所有视频皆完成翻译, 视频较新, 翻译质量也很高
-[iPad和iPhone应用开发(iOS5)](http://v.163.com/special/opencourse/ipadandiphoneapplication.html) | 11 年的视频, 目前只翻译了一半
 [iPhone开发教程2010年冬](http://v.163.com/special/opencourse/iphonekaifa.html) | 全部视频翻译完毕, 较为深入的讲解 iPhone 开发, 视频适合给有一定 Object-C 基础的人观看
 [使用Swift开发iOS8 App实战](http://www.imooc.com/learn/173) | 慕课网的视频, 主要讲 Swift 的一些基本使用, 并在讲解的过程中做了几个小 APP, 最后还讲了 Sketch 制作分享按钮
 [征战Objective-C](http://www.imooc.com/learn/218) | 视频还未完结, 讲了一些 C 和 Object-C 的基本语法, 适合零基础的人观看
