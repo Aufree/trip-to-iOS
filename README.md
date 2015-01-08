@@ -136,7 +136,7 @@
 8. [MagicalRecord](https://github.com/magicalpanda/MagicalRecord) | 作者是 Coursera 的 iOS 工程师, 该项目创作灵感来自于 Ruby on Rails 的 Active Record, 主要为方便操作 CoreData 而生, 帮助清除 CoreData 引用的代码, 协助方便 CoreData 的工作
 9. [FMDB](https://github.com/ccgus/fmdb) | 一个对 SQLite 进行封装的库, 使用起来方便, 简单
 10. [ASIHTTPRequest](https://github.com/pokeb/asi-http-request) | 一个轻量级的 iOS 网络通信类库, 基于 CFNetwork 框架开发, 但现在已经停止更新, 多数开发者改用 AFNetworking 替代)
-11. [Mantle](https://github.com/Mantle/Mantle) | 作者是 GitHub 的员工, 文档写的很清楚: Mantle makes it easy to write a simple model layer for your Cocoa or Cocoa Touch application, 主要用来将 JSON 数据模型化为 Object-C 对象, 唱吧在前段时间也改用 Mantle 了.
+11. [Mantle](https://github.com/Mantle/Mantle) | 作者是 GitHub 的员工, 文档写的很清楚: Mantle makes it easy to write a simple model layer for your Cocoa or Cocoa Touch application, 主要用来将 JSON 数据模型化为 Model 对象, 唱吧在前段时间也改用 Mantle 了.
 12. [FlatUIKit](https://github.com/Grouper/FlatUIKit) | 收集了很多扁平化 UI 的 iOS 组件, 方便使用
 13. [Facebook SDK for iOS](https://github.com/facebook/facebook-ios-sdk) | Facebook 官方的 iOS SDK, 方便开发者集成 Facebook 的一些功能到自己的 iOS APP 里面
 14. [JSONKit](https://github.com/johnezang/JSONKit) | 主要用于解析 JSON, 适用于 iOS6 以下环境, 自从 iOS5 开始 Apple 官方给出了 NSJSONSerialization API, 自此大家都用官方的了
