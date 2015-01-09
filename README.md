@@ -64,7 +64,7 @@
 
 标题  | 内容简介
 ---- | -----
-[Learn Objective C: The Path to iPhone Development](https://www.udemy.com/blog/learn-objective-c) | Udemy 写的文章, 说明了一些学习 Object C 的前提条件, Object C 的发展历史, 学习方法以及学习资源
+[Learn Objective C: The Path to iPhone Development](https://www.udemy.com/blog/learn-objective-c) | Udemy 写的文章, 说明了一些学习 Object-C 的前提条件, Object-C 的发展历史, 学习方法以及学习资源
 [I Want to Write iOS Apps. Where Do I Start?](http://lifehacker.com/i-want-to-write-ios-apps-where-do-i-start-1644802175) | 主要对 iOS 的开发环境进行了介绍, 并且涉及到了 Swift 的学习, iOS 上架的注意事项, iOS 的设计, 测试, 代码托管等, 讲解较为广泛, 同时也给出不少学习资源
 [How to become a professional iOS developer](http://roadfiresoftware.com/2014/04/how-to-become-a-professional-ios-developer) | 文章写的很有条理, 文中多次强调了版本控制系统的重要性, 主要内容是对学习 iOS 开发到就职, 给出了自己的建议
 [Learning iOS Programming](http://codewithchris.com/learning-ios-programming) | 作者总结了一些自己学习 iOS 的血的教训, 最后给出了一些不错学习建议
@@ -88,7 +88,7 @@
 [Appcoda](http://www.appcoda.com) | 经常发布一些 iOS 编程教程, 更新比较频繁, 想了解更多可以查看该网站的 About 界面
 [NSHipster](http://nshipster.com) | NSHipster is a journal of the overlooked bits in Objective-C, Swift, and Cocoa. Updated weekly.
 [Think and Build](http://www.thinkandbuild.it) | Some tutorials about Core Graphic and Core Animation.
-[Tutorials](http://www.raywenderlich.com/tutorials) | 大把的 Object-C, Swift, iOS 教程, 且全部免费, raywenderlich 真是业界良心, 赞!
+[Tutorials](http://www.raywenderlich.com/tutorials) | 大把的 Object-C, Swift, iOS 教程, 且全部免费, Raywenderlich 真是业界良心, 赞!
 
 ## 社区
 
@@ -186,15 +186,18 @@
 
 - [iOS Developer Library](https://developer.apple.com/library/ios/navigation) (iOS 开发必看, 有此文档足矣, 内容非常之详细)
 
-## 指南
+## 指南/教程
 
-- [Start Developing iOS Apps Today](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOS)
-- [App Programming Guide for iOS](https://developer.apple.com/library/ios/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/iPhoneAppProgrammingGuide.pdf) 
-- [Get started with your iOS developer pragram](https://developer.apple.com/programs/ios/gettingstarted)
-- [Teamtreehouse](http://blog.teamtreehouse.com/the-beginners-guide-to-objective-c-language-and-variables)
-- [A map for iOS development](http://www.appdeveloperatlas.com)
-- [App Store Review Guidelines](https://developer.apple.com/app-store/review/guidelines)
-- [Swift 语言指南](http://dev.swiftguide.cn)
+网址  |  简介
+---- | ----
+[App Store Review Guidelines](https://developer.apple.com/app-store/review/guidelines) | iOS 应用商店审核指南, 有[中文翻译版](http://www.cocoachina.com/ios/20140227/7892.html)
+[Swift 语言指南](http://dev.swiftguide.cn) | 有很多丰富的 Swift 学习资料, 学习 Swift 有这份资料可以省下很多力气
+[苹果 Xcode 帮助文档阅读指南](http://ourcoders.com/thread/show/117) | Tinyfool 推出的一篇对于帮助新手阅读官方文档的指南
+[Get started with your iOS developer pragram](https://developer.apple.com/programs/ios/gettingstarted) | 苹果写的一篇入门指南, 粗略讲解了 iOS 程序从开发到上架的整个流程
+[Teamtreehouse](http://blog.teamtreehouse.com/the-beginners-guide-to-objective-c-language-and-variables) | 文章主要讲解 Object-C 的一些语法, 文章内容有趣且通俗易懂
+[A map for iOS development](http://www.appdeveloperatlas.com) | 一张 iOS 开发地图, 做得很赞, 看完对 iOS 开发流程有一定的认知
+[Start Developing iOS Apps Today](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOS) | 苹果官方给出的 iOS 入门教程, 看过之后能够做一个 To-Do 小程序
+[Ry’s Objective-C Tutorial](http://rypress.com/tutorials/objective-c) | 讲解 Object-C 的教程, 图文并茂, 适合新手阅读
 
 ## Awesome 系列
 
