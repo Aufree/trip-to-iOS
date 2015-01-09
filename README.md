@@ -59,6 +59,8 @@
 [iOS技术周报](http://weekly.ios-wiki.com/history) | 吴发伟, 天猫资深软件开发工程师, iOS 技术周报每周一更, 推送一些 iOS 技巧, 代码库, 设计等资讯.
 [iWangKe.me](http://www.iwangke.me) | 王轲, IndieBros Studio 创始人, 优秀的 iOS 开发工程师, 写的文章深入浅出, 很多问题分析透彻, 非常有条理性
 [叶孤城](http://www.jianshu.com/p/99e8b3f6f377) | 叶孤城, 优秀 iOS 开发工程师, 发表的文章都有很多干货, 对源码解析类文章写得浅显易懂, 并时常总结一些 iOS 开发技巧, 值得一读
+[Kevin Blog](http://zhowkev.in) | 周楷雯, 秒视创始人, 知名 iOS 工程师, 做出了 [PNChart](https://github.com/kevinzhow/PNChart) 和 [Waver](https://github.com/kevinzhow/Waver) 这样的好项目, 在博客中也有谈到具体的实现过程
+[IMTX](http://imtx.me) | 图拉鼎, 知名 Apple 平台开发者, 曾经的 Ubuntu 平台开发者, 文章有不少干货, 大多讲解技术实现和学习经验
 [更多](https://github.com/tangqiaoboy/iOSBlogCN) | 唐巧收集的中文 iOS/Mac 开发博客列表, 更新频繁, 值得收藏
 
 ## 文章
