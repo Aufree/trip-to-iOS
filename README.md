@@ -58,6 +58,7 @@
 [念茜的博客](http://nianxi.net) | iOS 圈的女神人物, 写的关于安全问题的文章都值得一看, 由于新博客刚开通不久, 目前文章较少, 可以去看下她以前的[博客](http://blog.csdn.net/yiyaaixuexi)
 [iOS技术周报](http://weekly.ios-wiki.com/history) | 吴发伟, 天猫资深软件开发工程师, iOS 技术周报每周一更, 推送一些 iOS 技巧, 代码库, 设计等资讯.
 [iWangKe.me](http://www.iwangke.me) | 王轲, IndieBros Studio 创始人, 优秀的 iOS 开发工程师, 写的文章深入浅出, 很多问题分析透彻, 非常有条理性
+[叶孤城](http://www.jianshu.com/p/99e8b3f6f377) | 叶孤城, 优秀 iOS 开发工程师, 发表的文章都有很多干货, 对源码解析类文章写得浅显易懂, 并时常总结一些 iOS 开发技巧, 值得一读
 [更多](https://github.com/tangqiaoboy/iOSBlogCN) | 唐巧收集的中文 iOS/Mac 开发博客列表, 更新频繁, 值得收藏
 
 ## 文章
