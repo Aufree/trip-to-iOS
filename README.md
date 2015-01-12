@@ -103,7 +103,7 @@
 [code4app](http://code4app.com) | 经常更新一些很不错的 iOS 代码片段和一些 iOS 资源
 [objc](http://www.objc.io) | 定期发布一些有关 Objective-C 的高质量的文章
 [objc中国](http://objccn.io) | 喵神组织的对 objc.io 的翻译网站, 旨在推进国内技术圈整体水平, 翻译质量非常高
-[DevDiv](http://www.devdiv.com) | 发布一些 iOS 的最新咨询及教程
+[DevDiv](http://www.devdiv.com) | 发布一些 iOS 的最新资讯及教程
 [Cocos2d-x](http://discuss.cocos2d-x.org) | Cocos2d-x 论坛
 [iPhone Dev SDK](http://iphonedevsdk.com) | 国外较有名的 iOS 开发者论坛
 [Learn Cocoa and iOS Development Forum](http://forum.learncocoa.org) | [Learn Cocoa on the Mac](http://www.amazon.com/Learn-Cocoa-Mac-Jack-Nutting/dp/1430245425) 和 [Beginning iOS 7 Development](http://www.amazon.com/Beginning-iOS-Development-Exploring-SDK/dp/143026022X) 这两本书籍的官方论坛, 用户活跃度较高
