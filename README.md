@@ -205,7 +205,7 @@
 
 ## Awesome 系列
 
-- [Awesome iOS](https://github.com/matteocrippa/awesome-swift)
+- [Awesome iOS](https://github.com/vsouza/awesome-ios)
 - [Awesome-Swift(1)](https://github.com/matteocrippa/awesome-swift)
 - [Awesome-Swift(2)](https://github.com/Wolg/awesome-swift)
 
