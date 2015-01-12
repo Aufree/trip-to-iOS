@@ -31,7 +31,7 @@
 
 书籍名称 | 推荐理由
 ------- | -------
-[Objective-C Programming](http://www.amazon.com/dp/032194206X/ref=cm_sw_r_tw_dp_fWrPub0BGRHJ3) | 内容不多, 却都是精华, 有了一点 C 语言基础可以快速阅读此书, 大概一天时间就可以看完, 看完后对 iOS 开发能够有个基本的印象
+[Objective-C Programming](http://www.amazon.com/dp/032194206X/ref=cm_sw_r_tw_dp_fWrPub0BGRHJ3) | 内容不多, 却都是精华, 有了一点 C 语言基础可以快速阅读此书, 大概一天时间就可以看完, 看完后对 iOS 开发能够有个基本的印象, 该书的[官方论坛](http://forums.bignerdranch.com)有各个章节习题的解答.
 [iOS Programming](http://book.douban.com/subject/24538384) | 这本书在 Quora 上被评为 iOS 入门最佳书籍,  具体评价可见豆瓣下方该书籍的评论
 [Cocoa Design Patterns](http://book.douban.com/subject/3688896) | 适合打算深入了解 Cocoa 的人看
 [Learn Objective-C](http://cocoadevcentral.com/d/learn_objectivec) | 短小精练, 适合有编程基础的人在半小时内对 Objective-C 有个一定了解
