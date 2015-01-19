@@ -80,7 +80,7 @@
 [iOS开发学习路径的一些建议](http://www.cocoachina.com/ios/20141106/10147.html) | 文中谈到了英语的重要性, 以及写博客, 看源代码的好处
 [iOS 开发入门](http://www.jianshu.com/p/KSuDqb) | 作者分享了自己学习 iOS 的经验和资源
 [Mac 和 iOS 开发资源汇总](http://beyondvincent.com/blog/2013/07/18/106) | 破船之家发布的资源汇总
-[CocoaPod 使用教程](http://www.raywenderlich.com/64546/introduction-to-cocoapods-2) | 文章讲解了 CocoaPods 的基本使用, 并且配上 AFNetworking 做出了一个小 Demo, 值得一看
+[CocoaPods 使用教程](http://www.raywenderlich.com/64546/introduction-to-cocoapods-2) | 文章讲解了 CocoaPods 的基本使用, 并且配上 AFNetworking 做出了一个小 Demo, 值得一看
 
 ## 相关网站
 
