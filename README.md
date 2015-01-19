@@ -122,6 +122,7 @@
 [KSImageNamed-Xcode](https://github.com/ksuther/KSImageNamed-Xcode) | 自动补全图片命名的一款插件
 [VVDocumenter](https://github.com/onevcat/VVDocumenter-Xcode) | 一个自动生成代码注释的工具
 [ImageOptim](https://imageoptim.com) | 用于压缩图片一款工具
+[fastlane](https://github.com/KrauseFx/fastlane) | 开发流程工具，将开发过程流程化，极大提高开发效率
 [iOS 必备的 75 个工具](http://benscheirman.com/2013/08/the-ios-developers-toolbelt) | 其中包含了非常多好用的工具, 涉及到设计, 分析, 部署等, 总结的十分详细, 有[中文翻译](http://blog.jobbole.com/46799)
 [更多](http://blog.devtang.com/blog/2014/06/29/ios-dev-tools) | 唐巧总结的一些图形应用工具, 命令行工具, Xcode 插件, 并介绍了一点基础的用法
 
