@@ -17,6 +17,7 @@
 [Lynda](http://www.lynda.com/search?q=ios) | Lynda 上面 iOS 和 Objective-C 的学习资料比较多, 从初级到高级的都有, 覆盖面比较广, 无论 iOS 走到哪个层次, 都可以在上面挑到适合自己的课程
 [Code School](https://www.codeschool.com/paths/ios) | CodeSchool 上面的 iOS 不多, 不过质量都不错, 一些课程也挺有趣的
 [Udemy](https://www.udemy.com/topic/learn-objective-c) | Udemy 帮助初学者规划了视频学习路线, 从新手到高级分的比较详细
+[Developing iOS 8 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099) | 斯坦福白胡子老爷爷最新的iOS8和swift课程，现在Github上面也有人在翻译
 
 ## 视频教程(中文)
 
@@ -26,6 +27,7 @@
 [iPhone开发教程2010年冬](http://v.163.com/special/opencourse/iphonekaifa.html) | 全部视频翻译完毕, 较为深入的讲解 iPhone 开发, 视频适合给有一定 Objective-C 基础的人观看
 [使用Swift开发iOS8 App实战](http://www.imooc.com/learn/173) | 慕课网的视频, 主要讲 Swift 的一些基本使用, 并在讲解的过程中做了几个小 APP, 最后还讲了 Sketch 制作分享按钮
 [征战Objective-C](http://www.imooc.com/learn/218) | 视频还未完结, 讲了一些 C 和 Objective-C 的基本语法, 适合零基础的人观看
+[Developing iOS 8 Apps with Swift](https://github.com/x140yu/Developing_iOS_8_Apps_With_Swift) | Github上正在翻译的课程，目前正在翻译，未完结
 
 ## 书籍
 
