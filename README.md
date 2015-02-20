@@ -185,16 +185,6 @@
 49. [Appirater](https://github.com/arashpayan/appirater) | 一款用于提醒用户给你的 APP 打分的工具
 50. [BlocksKit](https://github.com/zwaldowski/BlocksKit) | 一个开源的与 Cocoa 紧密集合的基础性框架
 
-## 邮件订阅
-
-- [iOS Dev Weekly](http://iosdevweekly.com) (每周一期，内容多为这一星期里值得关注的 GitHub 项目、文章、工具等)
-- [iOS Design Weekly](http://iosdesign.co) (Tips, news and inspiration delivered each week)
-
-
-## 文档
-
-- [iOS Developer Library](https://developer.apple.com/library/ios/navigation) (iOS 开发必看, 有此文档足矣, 内容非常之详细)
-
 ## 指南/教程
 
 网址  |  简介
@@ -207,6 +197,15 @@
 [A map for iOS development](http://www.appdeveloperatlas.com) | 一张 iOS 开发地图, 做得很赞, 看完对 iOS 开发流程有一定的认知
 [Start Developing iOS Apps Today](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOS) | 苹果官方给出的 iOS 入门教程, 看过之后能够做一个 To-Do 小程序
 [Ry’s Objective-C Tutorial](http://rypress.com/tutorials/objective-c) | 讲解 Objective-C 的教程, 图文并茂, 适合新手阅读
+
+## 邮件订阅
+
+- [iOS Dev Weekly](http://iosdevweekly.com) (每周一期，内容多为这一星期里值得关注的 GitHub 项目、文章、工具等)
+- [iOS Design Weekly](http://iosdesign.co) (Tips, news and inspiration delivered each week)
+
+## 文档
+
+- [iOS Developer Library](https://developer.apple.com/library/ios/navigation) (iOS 开发必看, 有此文档足矣, 内容非常之详细)
 
 ## Awesome 系列
 
@@ -227,6 +226,10 @@
 
 - [What are the best resources to learn iOS development?](http://www.quora.com/What-are-the-best-resources-to-learn-iOS-development)
 - [What are the best new resources for learning iOS development in 2014?](https://www.quora.com/What-are-the-best-new-resources-for-learning-iOS-development-in-2014)
+
+## 国内知名的程序员开发日报
+
+- [App开发日报](http://app.memect.com)
 
 ## 贡献者
 
