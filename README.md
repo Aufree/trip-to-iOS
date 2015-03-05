@@ -197,6 +197,7 @@
 [A map for iOS development](http://www.appdeveloperatlas.com) | 一张 iOS 开发地图, 做得很赞, 看完对 iOS 开发流程有一定的认知
 [Start Developing iOS Apps Today](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOS) | 苹果官方给出的 iOS 入门教程, 看过之后能够做一个 To-Do 小程序
 [Ry’s Objective-C Tutorial](http://rypress.com/tutorials/objective-c) | 讲解 Objective-C 的教程, 图文并茂, 适合新手阅读
+[Objective-C Style Guide](https://github.com/raywenderlich/objective-c-style-guide) | Ray Wenderlich 推出的 Objective-C 风格指南
 
 ## 邮件订阅
 
@@ -229,7 +230,9 @@
 
 ## 国内知名的程序员开发日报
 
-- [App开发日报](http://app.memect.com)
+- [App 开发日报](http://app.memect.com)
+- [开发者头条](http://toutiao.io)
+- [码农周刊](http://weekly.manong.io)
 
 ## 贡献者
 
