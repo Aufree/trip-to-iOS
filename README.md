@@ -198,6 +198,7 @@
 [Start Developing iOS Apps Today](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOS) | 苹果官方给出的 iOS 入门教程, 看过之后能够做一个 To-Do 小程序
 [Ry’s Objective-C Tutorial](http://rypress.com/tutorials/objective-c) | 讲解 Objective-C 的教程, 图文并茂, 适合新手阅读
 [Objective-C Style Guide](https://github.com/raywenderlich/objective-c-style-guide) | Ray Wenderlich 推出的 Objective-C 风格指南
+[iOS8 Day-by-Day](http://www.shinobicontrols.com/iOS8DayByDay) | 每日一个 iOS8 的小教程, 所以的 DEMO 都可以在其 [GitHub](https://github.com/ShinobiControls/iOS8-day-by-day) 上面的找到相关代码
 
 ## 邮件订阅
 
