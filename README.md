@@ -24,7 +24,7 @@
 视频  |  简介
 ---- | ----
 [iOS 7 应用开发](http://v.163.com/special/opencourse/ios7.html) | 斯坦福白胡子老爷爷的系列视频, 所有视频皆完成翻译, 视频较新, 翻译质量也很高
-[iPhone开发教程 2010 年冬](http://v.163.com/special/opencourse/iphonekaifa.html) | 全部视频翻译完毕, 较为深入的讲解 iPhone 开发, 视频适合给有一定 Objective-C 基础的人观看
+[iPhone 开发教程 2010 年冬](http://v.163.com/special/opencourse/iphonekaifa.html) | 全部视频翻译完毕, 较为深入的讲解 iPhone 开发, 视频适合给有一定 Objective-C 基础的人观看
 [使用 Swift 开发 iOS8 App 实战](http://www.imooc.com/learn/173) | 慕课网的视频, 主要讲 Swift 的一些基本使用, 并在讲解的过程中做了几个小 APP, 最后还讲了 Sketch 制作分享按钮
 [征战 Objective-C](http://www.imooc.com/learn/218) | 视频还未完结, 讲了一些 C 和 Objective-C 的基本语法, 适合零基础的人观看
 [Developing iOS 8 Apps with Swift](https://github.com/x140yu/Developing_iOS_8_Apps_With_Swift) | GitHub 上正在翻译的斯坦福最新的 iOS8 课程, 目前正在翻译, 未完结
@@ -75,7 +75,7 @@
 [How to become a professional iOS developer](http://roadfiresoftware.com/2014/04/how-to-become-a-professional-ios-developer) | 文章写的很有条理, 文中多次强调了版本控制系统的重要性, 主要内容是对学习 iOS 开发到就职, 给出了自己的建议
 [Learning iOS Programming](http://codewithchris.com/learning-ios-programming) | 作者总结了一些自己学习 iOS 的血的教训, 最后给出了一些不错学习建议
 [Become an iOS Developer](https://www.udacity.com/career-paths/ios-developer) | 作者列举了一些学习 iOS 的方法以及常用的库, 以及自学 iOS 的一些建议
-[iOS开发如何提高](http://www.devtang.com/blog/2014/07/27/ios-levelup-tips) | 唐巧写的一篇文章, 主要是对 iOS 技术的提高做的一个总结, 文中不少资源, 工具, 学习方法
+[iOS 开发如何提高](http://www.devtang.com/blog/2014/07/27/ios-levelup-tips) | 唐巧写的一篇文章, 主要是对 iOS 技术的提高做的一个总结, 文中不少资源, 工具, 学习方法
 [自学 iOS 开发的一些经验](http://limboy.me/ios/2014/12/31/learning-ios.html) | 文章从入门到进阶到高级, 分为三个阶段, 有条理的讲出了 iOS 的整个学习过程中开发者可能遇到的问题, 并给出了解决办法, 奉献了不少好工具, 资源还有珍贵的学习经验
 [如何从 0 开始学 iOS 开发](http://readful.com/post/101914515826/0-ios) | 作者给出了学习 iOS 的流程, 并给出一些不错的学习资源
 [如果我可以重新学习 iOS 开发](http://www.cocoachina.com/programmer/20141128/10353.html) | 作者在文中给出了学习的一些建议, 也谈到了自己的学习方法
@@ -116,7 +116,7 @@
 
 工具/插件  |  简介
 ---- | ----
-[CocoaPods](http://cocoapods.org) | 开发 OS X 和 iOS 应用程序的一个第三方库的依赖管理工具, 本身是 Ruby 的一个 gem, 极大的简化了 Objective-C 的开发流程
+[CocoaPods](http://cocoapods.org) | 开发 OS X 和 iOS 应用程序的一个第三方库的依赖管理工具, 本身是 Ruby 的一个 Gem, 极大的简化了 Objective-C 的开发流程
 [Alcatraz](http://alcatraz.io) | Alcatraz 是一款管理 Xcode 插件、模版以及颜色配置的工具
 [XcodeColors](https://github.com/robbiehanson/XcodeColors) | 使 Xcode 调试控制台色彩更丰富
 [xctool](https://github.com/facebook/xctool) | Facebook 开源的一个 iOS 编译和测试的工具
@@ -171,7 +171,7 @@
 35. [Json Framework](https://github.com/stig/json-framework) | 用于解析 JSON 数据的一个框架, 但是在 iOS5 以上版本大多数人都选择使用 NSJSONSerialization 来解析 JSON, 该项目现在在 GitHub 上也几乎没怎么更新了
 36. [The Physical Web](https://github.com/google/physical-web) | 由 Chrome 团队主导的一个项目, 意在用 URL 连接世界, 方便用户接受数据, 目前尚处在实验阶段
 37. [Reachability](https://github.com/tonymillion/Reachability) | Reachablity 是用于检测 iOS 设备网络环境的库
-38. [RESideMenu](https://github.com/romaonthego/RESideMenu) | 作者 Roman Efimov 是雅虎的 iOS 工程师, 这个项目实现了 iOS 上的菜单侧滑效果, 创意来源于 dribbble, 该项目支持 iOS8
+38. [RESideMenu](https://github.com/romaonthego/RESideMenu) | 作者 Roman Efimov 是雅虎的 iOS 工程师, 这个项目实现了 iOS 上的菜单侧滑效果, 创意来源于 Dribbble, 该项目支持 iOS8
 39. [CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket) | 一个功能强大、简单易用的异步 socket 通讯类库, 支持 TCP 和 UDP 协议, 可用于 Mac 和 iOS 设备上, 作者 Robbie Hanson 是 Deusty 的首席软件工程师
 40. [ECSlidingViewController](https://github.com/ECSlidingViewController/ECSlidingViewController) | 一个视图控制器容器, 将子视图处理成两层, 通过滑动来处理层的切换, 创作灵感来自 Facebook 和 Path的 App, 作者是 Cleveland 的员工
 41. [SWTableViewCell](https://github.com/CEWendel/SWTableViewCell) | UITableViewCell 的子类, 实现了左右滑动显示信息视图并调出按钮
