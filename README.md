@@ -46,7 +46,7 @@
 [Objective-C 高级编程](http://www.amazon.cn/dp/B00DE60G3S/ref=cm_sw_r_qz_2_dp_hdPPub11MFE6G) | 本书主要介绍 iOS 与 OS X 多线程和内存管理, 深入破析了苹果官方公布的源代码,  告诉你一些苹果公司官方文档中不会出现的知识, 适合中级以上 iOS 开发人员阅读
 [Effective Objective C 2.0](http://www.amazon.cn/dp/B00IDSGY06/ref=cm_sw_r_qz_2_dp_A2OPub0CH96YH) | 书里写了编写高质量 iOS 与 OS X 代码的 52 个有效方法, 适合 iOS 开发的进阶使用
 [Swift Fundamentals](http://www.amazon.com/dp/0990402053/ref=cm_sw_r_tw_dp_louPub127Q1YP) | 估计将来这本书会成为 Swift 的经典入门书籍, 它的 Stars 数说明了一切
-[The Swift Programming Language 中文版](http://numbbbbb.gitbooks.io/-the-swift-programming-language-/content) | 90 后开发者梁杰组织翻译的 Swift 编程语言中文版
+[The Swift Programming Language 中文版](http://numbbbbb.gitbooks.io/-the-swift-programming-language-/content/) | 90 后开发者梁杰组织翻译的 Swift 编程语言中文版
 
 ## 博客
 
