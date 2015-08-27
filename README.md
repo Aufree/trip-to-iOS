@@ -158,6 +158,7 @@
 - [Awesome iOS](https://github.com/vsouza/awesome-ios)
 - [Awesome-Swift(1)](https://github.com/matteocrippa/awesome-swift)
 - [Awesome-Swift(2)](https://github.com/Wolg/awesome-swift)
+- [Awesome-watchOS](https://github.com/yenchenlin1994/awesome-watchos)
 
 ## 知乎上的讨论
 
