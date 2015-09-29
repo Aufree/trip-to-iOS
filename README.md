@@ -46,7 +46,7 @@
 [Objective-C 高级编程](http://www.amazon.cn/dp/B00DE60G3S/ref=cm_sw_r_qz_2_dp_hdPPub11MFE6G) | 本书主要介绍 iOS 与 OS X 多线程和内存管理, 深入破析了苹果官方公布的源代码,  告诉你一些苹果公司官方文档中不会出现的知识, 适合中级以上 iOS 开发人员阅读
 [Effective Objective C 2.0](http://www.amazon.cn/dp/B00IDSGY06/ref=cm_sw_r_qz_2_dp_A2OPub0CH96YH) | 书里写了编写高质量 iOS 与 OS X 代码的 52 个有效方法, 适合 iOS 开发的进阶使用
 [Swift Fundamentals](http://www.amazon.com/dp/0990402053/ref=cm_sw_r_tw_dp_louPub127Q1YP) | 估计将来这本书会成为 Swift 的经典入门书籍, 它的 Stars 数说明了一切
-[The Swift Programming Language 中文版](http://numbbbbb.gitbooks.io/-the-swift-programming-language-/content) | 90 后开发者梁杰组织翻译的 Swift 编程语言中文版
+[The Swift Programming Language 中文版](http://numbbbbb.gitbooks.io/-the-swift-programming-language-/content/) | 90 后开发者梁杰组织翻译的 Swift 编程语言中文版
 
 ## 博客
 
@@ -83,6 +83,7 @@
 [iOS 开发入门](http://www.jianshu.com/p/KSuDqb) | 作者分享了自己学习 iOS 的经验和资源
 [Mac 和 iOS 开发资源汇总](http://beyondvincent.com/blog/2013/07/18/106) | 破船之家发布的资源汇总
 [CocoaPods 使用教程](http://www.raywenderlich.com/64546/introduction-to-cocoapods-2) | 文章讲解了 CocoaPods 的基本使用, 并且配上 AFNetworking 做出了一个小 Demo, 值得一看
+[iOS 开发路线简述](http://www.coderyi.com/archives/397) | 作者简单介绍了一下自己 iOS 开发的感受，也是他学习 iOS 开发的一个体系架构。
 
 ## 相关网站
 
@@ -157,6 +158,7 @@
 - [Awesome iOS](https://github.com/vsouza/awesome-ios)
 - [Awesome-Swift(1)](https://github.com/matteocrippa/awesome-swift)
 - [Awesome-Swift(2)](https://github.com/Wolg/awesome-swift)
+- [Awesome-watchOS](https://github.com/yenchenlin1994/awesome-watchos)
 
 ## 知乎上的讨论
 
