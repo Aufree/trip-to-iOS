@@ -36,7 +36,7 @@
 [Objective-C Programming](http://www.amazon.com/dp/032194206X/ref=cm_sw_r_tw_dp_fWrPub0BGRHJ3) | 内容不多, 却都是精华, 有了一点 C 语言基础可以快速阅读此书, 大概一天时间就可以看完, 看完后对 iOS 开发能够有个基本的印象, 该书的[官方论坛](http://forums.bignerdranch.com)有各个章节习题的解答.
 [iOS Programming](http://book.douban.com/subject/24538384) | 这本书在 Quora 上被评为 iOS 入门最佳书籍,  具体评价可见豆瓣下方该书籍的评论
 [Cocoa Design Patterns](http://book.douban.com/subject/3688896) | 适合打算深入了解 Cocoa 的人看
-[Learn Objective-C](http://cocoadevcentral.com/d/learn_objectivec) | 短小精练, 适合有编程基础的人在半小时内对 Objective-C 有个一定了解
+[Learn Objective-C](http://cocoadevcentral.com/d/learn_objectivec/) | 短小精练, 适合有编程基础的人在半小时内对 Objective-C 有个一定了解
 [Programming with Objective-C](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html) | 看完 Learn Objective-C 可以接着看这个官方对 Objective-C 更为深入的介绍
 [Objective-C 基础教程](http://www.amazon.cn/dp/B00COG40Y0/ref=cm_sw_r_qz_2_dp_l2OPub0N45R0Q) | 该书作者 Scott Knaster 是 Mac 开发界的传奇人物, 目前在 Google 出过多数书籍都广受许多程序员好评, 此书适合从初级跳到中级的 iOS 开发者阅读
 [iOS 开发进阶](http://www.amazon.cn/dp/B00R43XG9S/ref=cm_sw_r_qz_pi_T2A_jdp_fCPPub0VBF67T) | 该书作者唐巧是国内 iOS 开发界的名人, 曾参与多个知名软件的开发, 目前该书尚在预售中, 书本内容由浅入深, 将读者一步一步引入到 iOS 中去, 同样适合初级跳到中级的 iOS 开发者阅读
@@ -46,7 +46,7 @@
 [Objective-C 高级编程](http://www.amazon.cn/dp/B00DE60G3S/ref=cm_sw_r_qz_2_dp_hdPPub11MFE6G) | 本书主要介绍 iOS 与 OS X 多线程和内存管理, 深入破析了苹果官方公布的源代码,  告诉你一些苹果公司官方文档中不会出现的知识, 适合中级以上 iOS 开发人员阅读
 [Effective Objective C 2.0](http://www.amazon.cn/dp/B00IDSGY06/ref=cm_sw_r_qz_2_dp_A2OPub0CH96YH) | 书里写了编写高质量 iOS 与 OS X 代码的 52 个有效方法, 适合 iOS 开发的进阶使用
 [Swift Fundamentals](http://www.amazon.com/dp/0990402053/ref=cm_sw_r_tw_dp_louPub127Q1YP) | 估计将来这本书会成为 Swift 的经典入门书籍, 它的 Stars 数说明了一切
-[The Swift Programming Language 中文版](http://numbbbbb.gitbooks.io/-the-swift-programming-language-/content/) | 90 后开发者梁杰组织翻译的 Swift 编程语言中文版
+[The Swift Programming Language 中文版](https://numbbbbb.gitbooks.io/-the-swift-programming-language-/content/) | 90 后开发者梁杰组织翻译的 Swift 编程语言中文版
 
 ## 博客
 
@@ -57,7 +57,7 @@
 [txx's blog](http://blog.txx.im) | 90 后 iOS 开发者, 人称虾神, 文章内容讲解大多浅白易懂, 很值得看
 [破船之家](http://beyondvincent.com) | 博主也是 iOS 大神一个, 经常更新一些 iOS 教程, 文章的质量都很高, 非常值得看
 [NSHipster](http://nshipster.cn) | NSHipster 的中文网站, 主要对 NSHipster 的英文网站进行翻译, 博文出自 Mattt 大神之手, 文章大都写得很深入, 详细, 每周一更
-[Limboy 无网不剩](http://blog.leezhong.com) | 李忠, 知乎前员工, 目前在负责花瓣 iOS 开发, 不少文章里面有介绍博主个人的学习方法, 让读者在学到技术的同时也掌握学习的技巧
+[Limboy 无网不剩](http://limboy.me/) | 李忠, 知乎前员工, 目前在负责花瓣 iOS 开发, 不少文章里面有介绍博主个人的学习方法, 让读者在学到技术的同时也掌握学习的技巧
 [念茜的博客](http://nianxi.net) | iOS 圈的女神人物, 写的关于安全问题的文章都值得一看, 由于新博客刚开通不久, 目前文章较少, 可以去看下她以前的[博客](http://blog.csdn.net/yiyaaixuexi)
 [iOS技术周报](http://weekly.ios-wiki.com/history) | 吴发伟, 天猫资深软件开发工程师, iOS 技术周报每周一更, 推送一些 iOS 技巧, 代码库, 设计等资讯.
 [iWangKe.me](http://www.iwangke.me) | 王轲, IndieBros Studio 创始人, 优秀的 iOS 开发工程师, 写的文章深入浅出, 很多问题分析透彻, 非常有条理性
@@ -70,12 +70,12 @@
 
 标题  | 内容简介
 ---- | -----
-[Learn Objective C: The Path to iPhone Development](https://www.udemy.com/blog/learn-objective-c) | Udemy 写的文章, 说明了一些学习 Objective-C 的前提条件, Objective-C 的发展历史, 学习方法以及学习资源
+[Learn Objective C: The Path to iPhone Development](https://blog.udemy.com/learn-objective-c/) | Udemy 写的文章, 说明了一些学习 Objective-C 的前提条件, Objective-C 的发展历史, 学习方法以及学习资源
 [I Want to Write iOS Apps. Where Do I Start?](http://lifehacker.com/i-want-to-write-ios-apps-where-do-i-start-1644802175) | 主要对 iOS 的开发环境进行了介绍, 并且涉及到了 Swift 的学习, iOS 上架的注意事项, iOS 的设计, 测试, 代码托管等, 讲解较为广泛, 同时也给出不少学习资源
-[How to become a professional iOS developer](http://roadfiresoftware.com/2014/04/how-to-become-a-professional-ios-developer) | 文章写的很有条理, 文中多次强调了版本控制系统的重要性, 主要内容是对学习 iOS 开发到就职, 给出了自己的建议
-[Learning iOS Programming](http://codewithchris.com/learning-ios-programming) | 作者总结了一些自己学习 iOS 的血的教训, 最后给出了一些不错学习建议
+[How to become a professional iOS developer](http://roadfiresoftware.com/2014/04/how-to-become-a-professional-ios-developer/) | 文章写的很有条理, 文中多次强调了版本控制系统的重要性, 主要内容是对学习 iOS 开发到就职, 给出了自己的建议
+[Learning iOS Programming](http://codewithchris.com/learning-ios-programming/) | 作者总结了一些自己学习 iOS 的血的教训, 最后给出了一些不错学习建议
 [Become an iOS Developer](https://www.udacity.com/career-paths/ios-developer) | 作者列举了一些学习 iOS 的方法以及常用的库, 以及自学 iOS 的一些建议
-[iOS 开发如何提高](http://www.devtang.com/blog/2014/07/27/ios-levelup-tips) | 唐巧写的一篇文章, 主要是对 iOS 技术的提高做的一个总结, 文中不少资源, 工具, 学习方法
+[iOS 开发如何提高](http://www.devtang.com/blog/2014/07/27/ios-levelup-tips/) | 唐巧写的一篇文章, 主要是对 iOS 技术的提高做的一个总结, 文中不少资源, 工具, 学习方法
 [自学 iOS 开发的一些经验](http://limboy.me/ios/2014/12/31/learning-ios.html) | 文章从入门到进阶到高级, 分为三个阶段, 有条理的讲出了 iOS 的整个学习过程中开发者可能遇到的问题, 并给出了解决办法, 奉献了不少好工具, 资源还有珍贵的学习经验
 [如何从 0 开始学 iOS 开发](http://readful.com/post/101914515826/0-ios) | 作者给出了学习 iOS 的流程, 并给出一些不错的学习资源
 [如果我可以重新学习 iOS 开发](http://www.cocoachina.com/programmer/20141128/10353.html) | 作者在文中给出了学习的一些建议, 也谈到了自己的学习方法
@@ -104,7 +104,7 @@
 ---- | ----
 [CocoaChina](http://www.cocoachina.com) | 全球最大苹果开发者中文社区
 [code4app](http://code4app.com) | 经常更新一些很不错的 iOS 代码片段和一些 iOS 资源
-[objc](http://www.objc.io) | 定期发布一些有关 Objective-C 的高质量的文章
+[objc](https://www.objc.io/) | 定期发布一些有关 Objective-C 的高质量的文章
 [objc中国](http://objccn.io) | 喵神组织的对 objc.io 的翻译网站, 旨在推进国内技术圈整体水平, 翻译质量非常高
 [DevDiv](http://www.devdiv.com) | 发布一些 iOS 的最新资讯及教程
 [Cocos2d-x](http://discuss.cocos2d-x.org) | Cocos2d-x 论坛
@@ -117,7 +117,7 @@
 
 工具/插件  |  简介
 ---- | ----
-[CocoaPods](http://cocoapods.org) | 开发 OS X 和 iOS 应用程序的一个第三方库的依赖管理工具, 本身是 Ruby 的一个 Gem, 极大的简化了 Objective-C 的开发流程
+[CocoaPods](https://cocoapods.org/) | 开发 OS X 和 iOS 应用程序的一个第三方库的依赖管理工具, 本身是 Ruby 的一个 Gem, 极大的简化了 Objective-C 的开发流程
 [Alcatraz](http://alcatraz.io) | Alcatraz 是一款管理 Xcode 插件、模版以及颜色配置的工具
 [XcodeColors](https://github.com/robbiehanson/XcodeColors) | 使 Xcode 调试控制台色彩更丰富
 [xctool](https://github.com/facebook/xctool) | Facebook 开源的一个 iOS 编译和测试的工具
@@ -125,9 +125,9 @@
 [KSImageNamed-Xcode](https://github.com/ksuther/KSImageNamed-Xcode) | 自动补全图片命名的一款插件
 [VVDocumenter](https://github.com/onevcat/VVDocumenter-Xcode) | 一个自动生成代码注释的工具
 [ImageOptim](https://imageoptim.com) | 用于压缩图片一款工具
-[fastlane](https://github.com/KrauseFx/fastlane) | 开发流程工具，将开发过程流程化，极大提高开发效率
-[iOS 必备的 75 个工具](http://benscheirman.com/2013/08/the-ios-developers-toolbelt) | 其中包含了非常多好用的工具, 涉及到设计, 分析, 部署等, 总结的十分详细, 有[中文翻译](http://blog.jobbole.com/46799)
-[更多](http://blog.devtang.com/blog/2014/06/29/ios-dev-tools) | 唐巧总结的一些图形应用工具, 命令行工具, Xcode 插件, 并介绍了一点基础的用法
+[fastlane](https://github.com/fastlane/fastlane) | 开发流程工具，将开发过程流程化，极大提高开发效率
+[iOS 必备的 75 个工具](http://benscheirman.com/2013/08/the-ios-developers-toolbelt/) | 其中包含了非常多好用的工具, 涉及到设计, 分析, 部署等, 总结的十分详细, 有[中文翻译](http://blog.jobbole.com/46799/)
+[更多](http://blog.devtang.com/blog/2014/06/29/ios-dev-tools/) | 唐巧总结的一些图形应用工具, 命令行工具, Xcode 插件, 并介绍了一点基础的用法
 
 ## 指南/教程
 
@@ -142,7 +142,7 @@
 [Start Developing iOS Apps Today](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOS) | 苹果官方给出的 iOS 入门教程, 看过之后能够做一个 To-Do 小程序
 [Ry’s Objective-C Tutorial](http://rypress.com/tutorials/objective-c) | 讲解 Objective-C 的教程, 图文并茂, 适合新手阅读
 [Objective-C Style Guide](https://github.com/raywenderlich/objective-c-style-guide) | Ray Wenderlich 推出的 Objective-C 风格指南
-[iOS8 Day-by-Day](http://www.shinobicontrols.com/iOS8DayByDay) | 每日一个 iOS8 的小教程, 所以的 DEMO 都可以在其 [GitHub](https://github.com/ShinobiControls/iOS8-day-by-day) 上面的找到相关代码
+[iOS8 Day-by-Day](https://www.shinobicontrols.com/blog/introducing-ios8-day-by-day) | 每日一个 iOS8 的小教程, 所以的 DEMO 都可以在其 [GitHub](https://github.com/ShinobiControls/iOS8-day-by-day) 上面的找到相关代码
 
 ## 邮件订阅
 
