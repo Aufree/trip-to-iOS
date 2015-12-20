@@ -176,9 +176,12 @@
 
 ## 国内知名的程序员开发日报
 
+- [稀土掘金](http://gold.xitu.io/#/tag/iOS)
 - [App 开发日报](http://app.memect.com)
 - [开发者头条](http://toutiao.io)
 - [码农周刊](http://weekly.manong.io)
+- [伯乐头条](http://top.jobbole.com/)
+- [极客头条](http://geek.csdn.net/)
 
 ## 贡献者
 
