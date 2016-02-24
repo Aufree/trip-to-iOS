@@ -161,6 +161,7 @@
 - [Awesome-watchOS](https://github.com/yenchenlin1994/awesome-watchos)
 
 ## Raywenderlich 系列 | 简介 (以下书籍目前均已更新至xcode7.0和swift2.0)
+---- | ----
 [Swift Apprentice](http://www.raywenderlich.com/store/swift-apprentice) | 非常棒的swift入门书籍，同时也提及了函数式编程，泛型，面向协议编程等话题
 [The iOS Apprentice](http://www.raywenderlich.com/store/ios-apprentice) | 从零构建4个不同类型的app，深入浅出各种iOS开发的技术，配合上面那本<<Swift Apprentice>>效果更佳哦～
 [tvOS Apprentice](http://www.raywenderlich.com/store/tvos-apprentice) | 开发Apple TV应用的入门教程
