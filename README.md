@@ -160,6 +160,16 @@
 - [Awesome-Swift(2)](https://github.com/Wolg/awesome-swift)
 - [Awesome-watchOS](https://github.com/yenchenlin1994/awesome-watchos)
 
+## Raywenderlich 系列 | 简介 (以下书籍目前均已更新至xcode7.0和swift2.0)
+[Swift Apprentice](http://www.raywenderlich.com/store/swift-apprentice) | 非常棒的swift入门书籍，同时也提及了函数式编程，泛型，面向协议编程等话题
+[The iOS Apprentice](http://www.raywenderlich.com/store/ios-apprentice) | 从零构建4个不同类型的app，深入浅出各种iOS开发的技术，配合上面那本<<Swift Apprentice>>效果更佳哦～
+[tvOS Apprentice](http://www.raywenderlich.com/store/tvos-apprentice) | 开发Apple TV应用的入门教程
+[iOS 9 by Tutorials](http://www.raywenderlich.com/store/ios-9-by-tutorials) | iOS9.0的新特性的介绍与实践
+[watchOS 2 by Tutorials](http://www.raywenderlich.com/store/watchos-2-by-tutorials) | 开发Apple Watch应用的入门教程
+[Core Data by Tutorials](http://www.raywenderlich.com/store/core-data-by-tutorials) | 深入浅出Core Data
+[iOS Animations by Tutorials](http://www.raywenderlich.com/store/ios-animations-by-tutorials) | 深入浅出iOS动画
+[2D iOS & tvOS Games by Tutorials](http://www.raywenderlich.com/store/2d-ios-tvos-games-by-tutorials) | iOS与tvOS游戏开发入门教程
+
 ## 知乎上的讨论
 
 - [如何才能系统的学习 iOS 开发，理解一些规则和深层次的机制原理？](http://www.zhihu.com/question/20016551)
