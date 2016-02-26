@@ -184,6 +184,7 @@
 - [码农周刊](http://weekly.manong.io)
 - [伯乐头条](http://top.jobbole.com/)
 - [极客头条](http://geek.csdn.net/)
+- [平安金融科技移动开发周报](https://github.com/PaicHyperionDev/MobileDevWeekly)
 
 ## 贡献者
 
