@@ -86,6 +86,7 @@
 | [Mac 和 iOS 开发资源汇总](http://beyondvincent.com/blog/2013/07/18/106)                                                       | 破船之家发布的资源汇总                                                                                                                                    |
 | [CocoaPods 使用教程](http://www.raywenderlich.com/64546/introduction-to-cocoapods-2)                                          | 文章讲解了 CocoaPods 的基本使用, 并且配上 AFNetworking 做出了一个小 Demo, 值得一看                                                                        |
 | [iOS 开发路线简述](http://www.coderyi.com/archives/397)                                                                       | 作者简单介绍了一下自己 iOS 开发的感受，也是他学习 iOS 开发的一个体系架构。                                                                                |
+| [最全面 iOS 语言学习资料整理](http://mobile.51cto.com/iphone-463665.htm)|这份学习资料是为 iOS 初学者所准备的, 旨在帮助 iOS 初学者们快速找到适合自己的学习资料, 节省他们搜索资料的时间, 使他们更好的规划好自己的 iOS 学习路线, 更快的入门, 更准确的定位的目前所处的位置.
 
 ## 相关网站
 
