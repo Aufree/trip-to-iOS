@@ -171,7 +171,8 @@
 [watchOS 2 by Tutorials](http://www.raywenderlich.com/store/watchos-2-by-tutorials) | 开发 Apple Watch 应用的入门教程
 [Core Data by Tutorials](http://www.raywenderlich.com/store/core-data-by-tutorials) | 深入浅出 Core Data
 [iOS Animations by Tutorials](http://www.raywenderlich.com/store/ios-animations-by-tutorials) | 深入浅出 iOS 动画
-[2D iOS & tvOS Games by Tutorials](http://www.raywenderlich.com/store/2d-ios-tvos-games-by-tutorials) | iOS 与 tvOS 游戏开发入门教程
+[2D iOS & tvOS Games by Tutorials](http://www.raywenderlich.com/store/2d-ios-tvos-games-by-tutorials) | iOS 与 tvOS 2D游戏开发入门教程
+[3d-ios-games-by-tutorials](https://www.raywenderlich.com/store/3d-ios-games-by-tutorials) | iOS 3D游戏开发教程
 
 ## 知乎上的讨论
 
