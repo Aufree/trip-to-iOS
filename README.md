@@ -161,15 +161,18 @@
 - [Awesome-Swift(2)](https://github.com/Wolg/awesome-swift)
 - [Awesome-watchOS](https://github.com/yenchenlin1994/awesome-watchos)
 
-## Raywenderlich 系列 | 简介 (以下书籍目前均已更新至xcode7.0和swift2.0)
+## Raywenderlich 系列 (以下书籍目前均已更新至xcode7.0和swift2.0)
+书籍名称  |  简介
+----  |  ----
 [Swift Apprentice](http://www.raywenderlich.com/store/swift-apprentice) | 非常棒的 Swift 入门书籍，同时也提及了函数式编程，泛型，面向协议编程等话题
-[The iOS Apprentice](http://www.raywenderlich.com/store/ios-apprentice) | 从零构建 4 个不同类型的 App，深入浅出各种 iOS 开发的技术，配合上面那本 <<Swift Apprentice>> 效果更佳
+[The iOS Apprentice](http://www.raywenderlich.com/store/ios-apprentice) | 从零构建 4 个不同类型的 App，深入浅出各种 iOS 开发的技术，配合上面那本 [Swift Apprentice](http://www.raywenderlich.com/store/swift-apprentice) 效果更佳
 [tvOS Apprentice](http://www.raywenderlich.com/store/tvos-apprentice) | 开发 Apple TV 应用的入门教程
 [iOS 9 by Tutorials](http://www.raywenderlich.com/store/ios-9-by-tutorials) | iOS9.0 的新特性的介绍与实践
 [watchOS 2 by Tutorials](http://www.raywenderlich.com/store/watchos-2-by-tutorials) | 开发 Apple Watch 应用的入门教程
 [Core Data by Tutorials](http://www.raywenderlich.com/store/core-data-by-tutorials) | 深入浅出 Core Data
 [iOS Animations by Tutorials](http://www.raywenderlich.com/store/ios-animations-by-tutorials) | 深入浅出 iOS 动画
-[2D iOS & tvOS Games by Tutorials](http://www.raywenderlich.com/store/2d-ios-tvos-games-by-tutorials) | iOS 与 tvOS 游戏开发入门教程
+[2D iOS & tvOS Games by Tutorials](http://www.raywenderlich.com/store/2d-ios-tvos-games-by-tutorials) | iOS 与 tvOS 2D游戏开发入门教程
+[3d-ios-games-by-tutorials](https://www.raywenderlich.com/store/3d-ios-games-by-tutorials) | iOS 3D游戏开发教程
 
 ## 知乎上的讨论
 
