@@ -60,7 +60,7 @@
 [破船之家](http://beyondvincent.com) | 博主也是 iOS 大神一个, 经常更新一些 iOS 教程, 文章的质量都很高, 非常值得看
 [NSHipster](http://nshipster.cn) | NSHipster 的中文网站, 主要对 NSHipster 的英文网站进行翻译, 博文出自 Mattt 大神之手, 文章大都写得很深入, 详细, 每周一更
 [Limboy 无网不剩](http://limboy.me/) | 李忠, 知乎前员工, 目前在负责花瓣 iOS 开发, 不少文章里面有介绍博主个人的学习方法, 让读者在学到技术的同时也掌握学习的技巧
-[念茜的博客](http://nianxi.net) | iOS 圈的女神人物, 写的关于安全问题的文章都值得一看, 由于新博客刚开通不久, 目前文章较少, 可以去看下她以前的[博客](http://blog.csdn.net/yiyaaixuexi)
+[念茜的博客](http://blog.csdn.net/yiyaaixuexi) | iOS 圈的女神人物, 写的关于安全问题的文章都值得一看, 由于新博客刚开通不久, 目前文章较少, 可以去看下她以前的[博客](http://blog.csdn.net/yiyaaixuexi)
 [iOS技术周报](http://weekly.ios-wiki.com/history) | 吴发伟, 天猫资深软件开发工程师, iOS 技术周报每周一更, 推送一些 iOS 技巧, 代码库, 设计等资讯.
 [iWangKe.me](http://www.iwangke.me) | 王轲, IndieBros Studio 创始人, 优秀的 iOS 开发工程师, 写的文章深入浅出, 很多问题分析透彻, 非常有条理性
 [叶孤城](http://www.jianshu.com/p/99e8b3f6f377) | 叶孤城, 优秀 iOS 开发工程师, 发表的文章都有很多干货, 对源码解析类文章写得浅显易懂, 并时常总结一些 iOS 开发技巧, 值得一读
