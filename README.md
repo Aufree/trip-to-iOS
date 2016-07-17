@@ -5,6 +5,7 @@
 该文档会持续更新, 同时也欢迎更多具有丰富经验的 iOS 开发者将自己的常用的一些工具, 学习资料, 学习心得等分享上来, 我将定期筛选合并, 文档尚有一些不完善之处, 也请不吝指出, 感谢您对 iOS 所做的贡献, 让我们一起把国内的 iOS 做得更好,  谢谢.
 
 **如果您有任何意见或建议也可以通过[邮件](mailto:freedomlijinfa@gmail.com)或微博[@李锦发](http://weibo.com/jinfali)联系我**
+**我的微信：lijinfa894330982**
 
 > 本文章由 [The EST Group](http://estgroupe.com) 成员 [@Aufree](http://github.com/aufree) 整理而成, 转载请注明出处.
 
