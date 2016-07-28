@@ -80,7 +80,7 @@
 [Learning iOS Programming](http://codewithchris.com/learning-ios-programming/) | 作者总结了一些自己学习 iOS 的血的教训, 最后给出了一些不错学习建议
 [Become an iOS Developer](https://www.udacity.com/career-paths/ios-developer) | 作者列举了一些学习 iOS 的方法以及常用的库, 以及自学 iOS 的一些建议
 [iOS 开发如何提高](http://www.devtang.com/blog/2014/07/27/ios-levelup-tips/) | 唐巧写的一篇文章, 主要是对 iOS 技术的提高做的一个总结, 文中不少资源, 工具, 学习方法
-[自学 iOS 开发的一些经验](http://limboy.me/ios/2014/12/31/learning-ios.html) | 文章从入门到进阶到高级, 分为三个阶段, 有条理的讲出了 iOS 的整个学习过程中开发者可能遇到的问题, 并给出了解决办法, 奉献了不少好工具, 资源还有珍贵的学习经验
+[自学 iOS 开发的一些经验](http://limboy.me/tech/2014/12/31/learning-ios.html) | 文章从入门到进阶到高级, 分为三个阶段, 有条理的讲出了 iOS 的整个学习过程中开发者可能遇到的问题, 并给出了解决办法, 奉献了不少好工具, 资源还有珍贵的学习经验
 [如何从 0 开始学 iOS 开发](http://readful.com/post/101914515826/0-ios) | 作者给出了学习 iOS 的流程, 并给出一些不错的学习资源
 [如果我可以重新学习 iOS 开发](http://www.cocoachina.com/programmer/20141128/10353.html) | 作者在文中给出了学习的一些建议, 也谈到了自己的学习方法
 [iOS 开发学习路径的一些建议](http://www.cocoachina.com/ios/20141106/10147.html) | 文中谈到了英语的重要性, 以及写博客, 看源代码的好处
