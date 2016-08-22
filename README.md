@@ -4,7 +4,8 @@
 
 该文档会持续更新, 同时也欢迎更多具有丰富经验的 iOS 开发者将自己的常用的一些工具, 学习资料, 学习心得等分享上来, 我将定期筛选合并, 文档尚有一些不完善之处, 也请不吝指出, 感谢您对 iOS 所做的贡献, 让我们一起把国内的 iOS 做得更好,  谢谢.
 
-**如果您有任何意见或建议也可以通过[邮件](mailto:freedomlijinfa@gmail.com)或微博[@李锦发](http://weibo.com/jinfali)联系我**
+**如果您有任何意见或建议也可以通过[邮件](mailto:freedomlijinfa@gmail.com)或微博[@李锦发](http://weibo.com/jinfali)联系我**    
+**我的微信：lijinfa894330982**
 
 > 本文章由 [The EST Group](http://estgroupe.com) 成员 [@Aufree](http://github.com/aufree) 整理而成, 转载请注明出处.
 
@@ -19,7 +20,8 @@
 [Lynda](http://www.lynda.com/search?q=ios) | Lynda 上面 iOS 和 Objective-C 的学习资料比较多, 从初级到高级的都有, 覆盖面比较广, 无论 iOS 走到哪个层次, 都可以在上面挑到适合自己的课程
 [Code School](https://www.codeschool.com/paths/ios) | CodeSchool 上面的 iOS 不多, 不过质量都不错, 一些课程也挺有趣的
 [Udemy](https://www.udemy.com/topic/learn-objective-c) | Udemy 帮助初学者规划了视频学习路线, 从新手到高级分的比较详细
-[Developing iOS 8 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099) | 斯坦福白胡子老爷爷最新的 iOS8 和 Swift 课程, 现在 [GitHub](https://github.com/x140yu/Developing_iOS_8_Apps_With_Swift) 上面也有人在翻译
+[Developing iOS 8 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099) | 斯坦福白胡子老爷爷的 iOS8 和 Swift 课程, 已经翻译完成 [GitHub](https://github.com/x140yu/Developing_iOS_8_Apps_With_Swift)
+[Developing iOS 9 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099) | 斯坦福白胡子老爷爷最新的 iOS9 和 Swift 课程, 现在 [GitHub](https://github.com/X140Yu/Developing-iOS-9-Apps-with-Swift) 正在翻译
 
 ## 视频教程(中文)
 
@@ -78,7 +80,7 @@
 [Learning iOS Programming](http://codewithchris.com/learning-ios-programming/) | 作者总结了一些自己学习 iOS 的血的教训, 最后给出了一些不错学习建议
 [Become an iOS Developer](https://www.udacity.com/career-paths/ios-developer) | 作者列举了一些学习 iOS 的方法以及常用的库, 以及自学 iOS 的一些建议
 [iOS 开发如何提高](http://www.devtang.com/blog/2014/07/27/ios-levelup-tips/) | 唐巧写的一篇文章, 主要是对 iOS 技术的提高做的一个总结, 文中不少资源, 工具, 学习方法
-[自学 iOS 开发的一些经验](http://limboy.me/ios/2014/12/31/learning-ios.html) | 文章从入门到进阶到高级, 分为三个阶段, 有条理的讲出了 iOS 的整个学习过程中开发者可能遇到的问题, 并给出了解决办法, 奉献了不少好工具, 资源还有珍贵的学习经验
+[自学 iOS 开发的一些经验](http://limboy.me/tech/2014/12/31/learning-ios.html) | 文章从入门到进阶到高级, 分为三个阶段, 有条理的讲出了 iOS 的整个学习过程中开发者可能遇到的问题, 并给出了解决办法, 奉献了不少好工具, 资源还有珍贵的学习经验
 [如何从 0 开始学 iOS 开发](http://readful.com/post/101914515826/0-ios) | 作者给出了学习 iOS 的流程, 并给出一些不错的学习资源
 [如果我可以重新学习 iOS 开发](http://www.cocoachina.com/programmer/20141128/10353.html) | 作者在文中给出了学习的一些建议, 也谈到了自己的学习方法
 [iOS 开发学习路径的一些建议](http://www.cocoachina.com/ios/20141106/10147.html) | 文中谈到了英语的重要性, 以及写博客, 看源代码的好处
@@ -145,7 +147,8 @@
 [Start Developing iOS Apps Today](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOS) | 苹果官方给出的 iOS 入门教程, 看过之后能够做一个 To-Do 小程序
 [Ry’s Objective-C Tutorial](http://rypress.com/tutorials/objective-c) | 讲解 Objective-C 的教程, 图文并茂, 适合新手阅读
 [Objective-C Style Guide](https://github.com/raywenderlich/objective-c-style-guide) | Ray Wenderlich 推出的 Objective-C 风格指南
-[iOS8 Day-by-Day](https://www.shinobicontrols.com/blog/introducing-ios8-day-by-day) | 每日一个 iOS8 的小教程, 所以的 DEMO 都可以在其 [GitHub](https://github.com/ShinobiControls/iOS8-day-by-day) 上面的找到相关代码
+[iOS8 Day-by-Day](https://www.shinobicontrols.com/blog/introducing-ios8-day-by-day) | 每日一个 iOS8 的小教程, 所有的 DEMO 都可以在其 [GitHub](https://github.com/ShinobiControls/iOS8-day-by-day) 上面的找到相关代码
+[iOS9 Day-by-Day](https://www.shinobicontrols.com/blog/ios9-day-by-day-index) | 每日一个 iOS9 的小教程, 所有的 DEMO 都可以在其 [GitHub](https://github.com/ShinobiControls/iOS9-day-by-day) 上面的找到相关代码
 
 ## 邮件订阅
 
