@@ -51,6 +51,7 @@
 [Effective Objective C 2.0](http://www.amazon.cn/dp/B00IDSGY06/ref=cm_sw_r_qz_2_dp_A2OPub0CH96YH) | 书里写了编写高质量 iOS 与 OS X 代码的 52 个有效方法, 适合 iOS 开发的进阶使用
 [Swift Fundamentals](http://www.amazon.com/dp/0990402053/ref=cm_sw_r_tw_dp_louPub127Q1YP) | 估计将来这本书会成为 Swift 的经典入门书籍, 它的 Stars 数说明了一切
 [The Swift Programming Language 中文版](https://numbbbbb.gitbooks.io/-the-swift-programming-language-/content/) | 90 后开发者梁杰组织翻译的 Swift 编程语言中文版
+[Motion Design for iOS](https://designthencode.com/motion-sample-1.html) | 一本讲解iOS动画的web书，介绍了很多的动画开发实例，以及三种开发动画的方式 有[中文翻译版](https://github.com/Cloudox/Motion-Design-for-iOS)
 
 ## 博客
 
