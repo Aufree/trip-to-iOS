@@ -4,12 +4,15 @@
 
 该文档会持续更新, 同时也欢迎更多具有丰富经验的 iOS 开发者将自己的常用的一些工具, 学习资料, 学习心得等分享上来, 我将定期筛选合并, 文档尚有一些不完善之处, 也请不吝指出, 感谢您对 iOS 所做的贡献, 让我们一起把国内的 iOS 做得更好,  谢谢.
 
-**如果您有任何意见或建议也可以通过[邮件](mailto:freedomlijinfa@gmail.com)或微博[@李锦发](http://weibo.com/jinfali)联系我**    
-**我的微信：lijinfa894330982**
-
 > - 本文章由 [@Aufree](http://github.com/aufree) 整理而成, 转载请注明出处.
 > - 本人著作的书籍[《Laravel 入门教程》](https://laravel-china.org/laravel-tutorial/5.1)已正式发布，有兴趣的朋友可点击 [此处](https://laravel-china.org/topics/3383) 作进一步了解。
 > - 本项目由 [优帆远扬](yousails.com) 提供技术支持，有需要技术服务或软件开发的朋友可 [跟我联系](mailto:aufree@yousails.com)。
+
+---
+
+**如果您有任何意见或建议也可以通过我的微博 [@李锦发](http://weibo.com/jinfali) 或微信（lijinfa894330982）联系我**    
+
+****
 
 ## 视频教程(英文)
 
