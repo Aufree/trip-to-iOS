@@ -121,6 +121,7 @@
 [Learn Cocoa and iOS Development Forum](http://forum.learncocoa.org) | [Learn Cocoa on the Mac](http://www.amazon.com/Learn-Cocoa-Mac-Jack-Nutting/dp/1430245425) 和 [Beginning iOS 7 Development](http://www.amazon.com/Beginning-iOS-Development-Exploring-SDK/dp/143026022X) 这两本书籍的官方论坛, 用户活跃度较高
 [Apple Developer Forums](http://devforums.apple.com) | 苹果官方的开发者论坛
 [Swiftist](http://www.swiftist.org) | Swift 中文社区
+[掘金](https://www.juejin.im/tag/iOS) | 掘金技术社区的 iOS 分类
 
 ## 工具/插件
 
