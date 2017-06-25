@@ -1,6 +1,7 @@
 <p align="center">
-  <b>Special thanks to the generous sponsorship by:</b>
-  <br><br>
+  <br>
+  <b>创造不息，交付不止</b>
+  <br>
   <a href="https://www.yousails.com">
     <img src="https://yousails.com/banners/brand.png" width=350>
   </a>
