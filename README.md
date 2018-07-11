@@ -31,7 +31,8 @@
 [Code School](https://www.codeschool.com/paths/ios) | CodeSchool 上面的 iOS 不多, 不过质量都不错, 一些课程也挺有趣的
 [Udemy](https://www.udemy.com/topic/learn-objective-c) | Udemy 帮助初学者规划了视频学习路线, 从新手到高级分的比较详细
 [Developing iOS 8 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099) | 斯坦福白胡子老爷爷的 iOS8 和 Swift 课程, 已经翻译完成 [GitHub](https://github.com/x140yu/Developing_iOS_8_Apps_With_Swift)
-[Developing iOS 9 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-9-apps-swift/id1104579961) | 斯坦福白胡子老爷爷最新的 iOS9 和 Swift 课程, 现在 [GitHub](https://github.com/X140Yu/Developing-iOS-9-Apps-with-Swift) 正在翻译
+[Developing iOS 9 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-9-apps-swift/id1104579961) | 斯坦福白胡子老爷爷最新的 iOS9 和 Swift 课程, 已经翻译完成 [GitHub](https://github.com/X140Yu/Developing-iOS-9-Apps-with-Swift)
+[Developing iOS 11 Apps with Swift](https://itunes.apple.com/cn/podcast/developing-ios-11-apps-with-swift/id1315130780) | 斯坦福白胡子老爷爷最新的 iOS11 和 Swift 课程, 现在 [GitHub](https://github.com/ApolloZhu/Developing-iOS-11-Apps-with-Swift) 正在翻译
 
 ## 视频教程(中文)
 
