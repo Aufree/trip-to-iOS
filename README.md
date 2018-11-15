@@ -1,11 +1,3 @@
-<p align="center">
-  <br>
-  若需要软件外包服务，可与我联系，添加好友请注明来意
-  <br>
-  <br>  
-  <img src="https://user-images.githubusercontent.com/5310542/41954703-5178d4e8-7a0f-11e8-81b2-41c8f6aa0151.png" width="30%">
-</p>
-
 # iOS 学习资料整理
 
 这份学习资料是为 iOS 初学者所准备的, 旨在帮助 iOS 初学者们快速找到适合自己的学习资料, 节省他们搜索资料的时间, 使他们更好的规划好自己的 iOS 学习路线, 更快的入门, 更准确的定位的目前所处的位置.
@@ -13,7 +5,6 @@
 该文档会持续更新, 同时也欢迎更多具有丰富经验的 iOS 开发者将自己的常用的一些工具, 学习资料, 学习心得等分享上来, 我将定期筛选合并, 文档尚有一些不完善之处, 也请不吝指出, 感谢您对 iOS 所做的贡献, 让我们一起把国内的 iOS 做得更好,  谢谢.
 
 > - 本文章由 [@Aufree](http://github.com/aufree) 整理而成, 转载请注明出处。
-> - 本人著作的书籍[《Laravel 入门教程》](https://laravel-china.org/laravel-tutorial/5.1)已正式发布，有兴趣的朋友可点击 [此处](https://laravel-china.org/topics/3383) 作进一步了解。
 
 ---
 
