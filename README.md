@@ -129,6 +129,7 @@
 [Alcatraz](http://alcatraz.io) | Alcatraz 是一款管理 Xcode 插件、模版以及颜色配置的工具
 [XcodeColors](https://github.com/robbiehanson/XcodeColors) | 使 Xcode 调试控制台色彩更丰富
 [xctool](https://github.com/facebook/xctool) | Facebook 开源的一个 iOS 编译和测试的工具
+[agent-qa](https://vostride.com) | 自然语言驱动的 iOS、Android 和 Web 应用测试工具，支持持久记忆、验证后的自我改进及 CLI/MCP 集成
 [XToDo](https://github.com/trawor/XToDo) | 一款注释辅助插件，主要用于收集并列出项目中的`TODO`, `FIXME`, `???`, `!!!`
 [KSImageNamed-Xcode](https://github.com/ksuther/KSImageNamed-Xcode) | 自动补全图片命名的一款插件
 [VVDocumenter](https://github.com/onevcat/VVDocumenter-Xcode) | 一个自动生成代码注释的工具
